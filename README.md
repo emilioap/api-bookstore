@@ -29,7 +29,7 @@ Simple API REST made with [Nest](https://github.com/nestjs/nest) framework, usin
 Features:
 - Health Check;
 - Swagger;
-- Sequelize ORM; 
+- Sequelize ORM with MySQL; 
 
 ## Installation
 
